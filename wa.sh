@@ -15,7 +15,7 @@ cowsay -f daemon 1
 sleep 1
 echo -e "\e[91m "
 figlet "You can get free fancy number"
-echo "  coded by Sunaif Adkar "
+echo "  coded by cyber guruji "
 echo " "
 sleep 3
 echo " "
